@@ -1,0 +1,8 @@
+Server:
+   [] Program some basic sockets
+   [] Test that the sockets accept incoming data
+
+Client:
+   [] Connect to the server
+   [] Display connection success
+   [] Send basic info to server and get proper responses
