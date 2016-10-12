@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "fileio.h"
 
 int main() {
-  printf("Hello World");
-  return 0;
+  read_config("./config/server.conf");
 }

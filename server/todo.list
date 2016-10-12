@@ -1,0 +1,15 @@
+- main.c
+  [] Load configuration file.
+  [] Open the socket.
+  [] Handle information sent and received.
+
+- server_network.c
+  [] Create a socket.
+  [] Test socket.
+  [] Save information gathered from a socket in a database.
+  [] Send information through the socket.
+
+- conf.c
+  [] Read information from the configuration file.
+  [] Return the configurtion file as an array.
+  [] Make the array indexed by a string key.
